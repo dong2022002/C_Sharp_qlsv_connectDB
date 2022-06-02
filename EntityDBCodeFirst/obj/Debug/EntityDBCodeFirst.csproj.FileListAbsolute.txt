@@ -1,0 +1,17 @@
+D:\Hoc_tap\Phat_Trien_UD_DeskTop\QuanLySinhVien\EntityDBCodeFirst\bin\Debug\EntityDBCodeFirst.exe.config
+D:\Hoc_tap\Phat_Trien_UD_DeskTop\QuanLySinhVien\EntityDBCodeFirst\bin\Debug\EntityDBCodeFirst.exe
+D:\Hoc_tap\Phat_Trien_UD_DeskTop\QuanLySinhVien\EntityDBCodeFirst\bin\Debug\EntityDBCodeFirst.pdb
+D:\Hoc_tap\Phat_Trien_UD_DeskTop\QuanLySinhVien\EntityDBCodeFirst\bin\Debug\EntityFramework.dll
+D:\Hoc_tap\Phat_Trien_UD_DeskTop\QuanLySinhVien\EntityDBCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hoc_tap\Phat_Trien_UD_DeskTop\QuanLySinhVien\EntityDBCodeFirst\bin\Debug\EntityFramework.xml
+D:\Hoc_tap\Phat_Trien_UD_DeskTop\QuanLySinhVien\EntityDBCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hoc_tap\Phat_Trien_UD_DeskTop\QuanLySinhVien\EntityDBCodeFirst\obj\Debug\EntityDBCodeFirst.csproj.AssemblyReference.cache
+D:\Hoc_tap\Phat_Trien_UD_DeskTop\QuanLySinhVien\EntityDBCodeFirst\obj\Debug\EntityDBCodeFirst.csproj.SuggestedBindingRedirects.cache
+D:\Hoc_tap\Phat_Trien_UD_DeskTop\QuanLySinhVien\EntityDBCodeFirst\obj\Debug\EntityDBCodeFirst.Properties.Resources.resources
+D:\Hoc_tap\Phat_Trien_UD_DeskTop\QuanLySinhVien\EntityDBCodeFirst\obj\Debug\EntityDBCodeFirst.csproj.GenerateResource.cache
+D:\Hoc_tap\Phat_Trien_UD_DeskTop\QuanLySinhVien\EntityDBCodeFirst\obj\Debug\EntityDBCodeFirst.csproj.CoreCompileInputs.cache
+D:\Hoc_tap\Phat_Trien_UD_DeskTop\QuanLySinhVien\EntityDBCodeFirst\obj\Debug\EntityDBCodeFirst.csproj.CopyComplete
+D:\Hoc_tap\Phat_Trien_UD_DeskTop\QuanLySinhVien\EntityDBCodeFirst\obj\Debug\EntityDBCodeFirst.exe
+D:\Hoc_tap\Phat_Trien_UD_DeskTop\QuanLySinhVien\EntityDBCodeFirst\obj\Debug\EntityDBCodeFirst.pdb
+D:\Hoc_tap\Phat_Trien_UD_DeskTop\QuanLySinhVien\EntityDBCodeFirst\obj\Debug\EntityDBCodeFirst.Migrations.CreateDB.resources
+D:\Hoc_tap\Phat_Trien_UD_DeskTop\QuanLySinhVien\EntityDBCodeFirst\obj\Debug\EntityDBCodeFirst.Form1.resources
